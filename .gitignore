@@ -1,0 +1,4 @@
+# Temporary files
+*.backup
+translate-ko.ps1
+ko.json.backup
